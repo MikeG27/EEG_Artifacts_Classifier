@@ -1,5 +1,4 @@
 # EEG_Artifacts_Classifier
-----
 
 ## This repository contain solution for categorical classification problem of EGG biomedical artifacts 
 
